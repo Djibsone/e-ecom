@@ -682,7 +682,7 @@ footer .copyright span:hover {
 
 /* blog page */
 #page-header.blog-header{
-  background-image: url('../../public/images/ellipse3.png');
+  background-image: url('../../public/images/banner/b19.jpg');
 }
 /* 
 #blog {
@@ -752,7 +752,7 @@ footer .copyright span:hover {
 
 /* about page */
 #page-header.about-header {
-  background-image: url('../../public/images/td.jpg');
+  background-image: url('../../public/images/about/banner.png');
 }
 
 
@@ -1096,6 +1096,7 @@ footer .copyright span:hover {
 
   #newletter .form {
     width: 70%;
+    /* width: 100%; */
   }
 
   .i {
@@ -1126,15 +1127,13 @@ footer .copyright span:hover {
     font-size: 25px;
   }
 
-  /* #navbar {
-    flex-direction: column;
-    justify-content: space-between;
-    right: -600px;
-    height: 80vh;
-    width: 100px;
-    padding: 40px 0px 0px 4px;
+  #navbar {
+    width: 50%;
+    /* height: 50%;
+    border-radius: 20px; */
   }
 
+/*
   #navbar li {
     padding: 0px 20px;
   } */
